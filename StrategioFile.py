@@ -79,6 +79,7 @@ print(response)
 #End process for granting a user iam access ]
 """
 
+"""
 #Begin process for creating aws console access
 
 logger = logging.getLogger('iamuser_loginprofile')
@@ -107,3 +108,4 @@ if __name__ == '__main__':
     main()
 
 #End process for creating aws console access
+"""
